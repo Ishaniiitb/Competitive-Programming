@@ -1,4 +1,5 @@
 // https://codeforces.com/problemset/problem/683/A
+// 9:56 seconds
 
 #include <iostream>
 
