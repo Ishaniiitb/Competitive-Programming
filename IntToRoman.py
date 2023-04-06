@@ -19,3 +19,7 @@ def intToRoman(num):
             num -= (i - 1)
         roman += sub
     return roman
+
+
+n = int(input())
+print(intToRoman(n))
