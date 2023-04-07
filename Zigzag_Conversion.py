@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/zigzag-conversion/
+
 def convert(s, numRows):
     if numRows == 1:
         return s
