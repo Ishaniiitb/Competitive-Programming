@@ -19,5 +19,5 @@ def fibonacciModulo(n, m):
 
 
 n = 1548276540
-m = 235
+m = 225
 print(fibonacciModulo(n, m))
