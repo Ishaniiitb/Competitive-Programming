@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/happy-number/description/
+
 #include<vector>;
 #include<iostream>;
 using namespace std;
